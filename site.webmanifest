@@ -1,0 +1,16 @@
+{
+  "name": "Case Converter & Text Cleaner — Gamility Tools",
+  "short_name": "Case Studio",
+  "description": "Instant text case converter, cleaner, line sorter, and SEO URL slugifier with real-time analytics.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090e1a",
+  "theme_color": "#090e1a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
